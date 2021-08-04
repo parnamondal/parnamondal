@@ -1,25 +1,25 @@
-<img src="https://parnamondal.netlify.app/">
+<img src="https://github-hero-readme.vercel.app/api?username=parnamondal&linkedin=parnamondal&twitter=parna281&description=Programmer%20Analyst%20Trainee%20@Cognizant%20|%20Python%20Nerdwidth=%27100%%27">
 
 <br>
-
-[![Website](https://img.shields.io/website?label=alokraj.me&style=for-the-badge&url=https://alokraj.me)](https://alokraj.me)
+https://parnamondal.netlify.app/
+[![Website](https://img.shields.io/website?label=Parna&style=for-the-badge&url=https://parnamondal.netlify.app/)](https://parnamondal.netlify.app/)
 [![Website](https://img.shields.io/website?label=opendevs.in&style=for-the-badge&url=https://opendevs.in)](https://opendevs.in)
 [![https://alok722.hashnode.dev](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https://alok722.hashnode.dev)](https://alok722.hashnode.dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/alok722?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falok722&screen_name=alok722)
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alok722)
+[![Twitter Follow](https://img.shields.io/twitter/follow/alok722?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Parna281)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/parnamondal)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok722&label=Profile%20views&color=0e75b6&style=flat" alt="alok722" /> </p>
 
 Current Web UI Developer at Globant with 2+ years of experience specializing in the JavaScript technologies. Super nerd who loves JavaScript
 & its frameworks, libraries and enjoys to customize all of the development environment. Interested in devising a better problem‑solving
 method for challenging tasks, and learning new technologies and tools if the need arises.
-## I'm an Indian 🇮🇳, A Learner, JavaScript Developer, and a friend!🙌
+## I'm an Indian 🇮🇳, A Learner, Python Programmer, and a singer!🙌
 
 - 🔥 I'm co-founder of open source initiate [open-devs](website) 
-- 🌱 I’m a JavaScript enthusiast and currently all into ReactJS. 🧡
+- 🌱 I’m a Python enthusiast and currently all into Programming. 🧡
 - 💬 Ask me about React, Vue.js, Angular, Node.js, JavaScript, TypeScript, devops, career or technology advice.. 🙌
-- 👯 I’m looking to collaborate with other open source contributor
-- ⚡ Fun fact: I think, I am in Love with Javascript.
+- 👯 I’m looking to collaborate with other Python competitive programmer .
+- ⚡ Fun fact: I think, I am in Love with Python.
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
