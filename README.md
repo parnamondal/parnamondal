@@ -1,15 +1,14 @@
 <img src="https://github-hero-readme.vercel.app/api?username=parnamondal&linkedin=parnamondal&twitter=parna281&description=Programmer%20Analyst%20Trainee%20@Cognizant%20|%20Python%20Nerdwidth=%27100%%27">
 
 <br>
-https://parnamondal.netlify.app/
+
 [![Website](https://img.shields.io/website?label=Parna&style=for-the-badge&url=https://parnamondal.netlify.app/)](https://parnamondal.netlify.app/)
-[![Website](https://img.shields.io/website?label=opendevs.in&style=for-the-badge&url=https://opendevs.in)](https://opendevs.in)
-[![https://alok722.hashnode.dev](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https://alok722.hashnode.dev)](https://alok722.hashnode.dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/alok722?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Parna281)
+[![Youtube Subscribe](https://camo.githubusercontent.com/5ec227e4b35843956482d6613ea1e7b828ff35947fc6099b7dc9f912d04d06b0/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f7374796c653d736f6369616c2675726c3d6874747073253341253246253246796f75747562652d6368616e6e656c2d62616467652e6e676f6c6461636b2e76657263656c2e61707025324661706925324673756273637269626572)](https://www.youtube.com/channel/UC9y2UZGcMuJGCYBgEb3baJg)
+[![Twitter Follow](https://img.shields.io/twitter/follow/parna281?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Parna281)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/parnamondal)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok722&label=Profile%20views&color=0e75b6&style=flat" alt="alok722" /> </p>
-
+<!--
 Current Web UI Developer at Globant with 2+ years of experience specializing in the JavaScript technologies. Super nerd who loves JavaScript
 & its frameworks, libraries and enjoys to customize all of the development environment. Interested in devising a better problem‑solving
 method for challenging tasks, and learning new technologies and tools if the need arises.
@@ -23,13 +22,14 @@ method for challenging tasks, and learning new technologies and tools if the nee
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+<!--
 - [How To Become React Developer In 2021 From Youtube](https://alok722.medium.com/how-to-become-react-developer-in-2021-from-youtube-c468d19e8059?source=rss-e10e116247f8------2)
 - [YDKJS — UP & GOING, Takeaways for Experienced JavaScript Developer](https://alok722.medium.com/ydkjs-up-going-takeaways-for-experienced-javascript-developer-ccda83b38a6a?source=rss-e10e116247f8------2)
 - [Story of Transition to the Senior SE role](https://alok722.medium.com/story-of-transition-to-the-senior-se-role-2c6ea1101e4a?source=rss-e10e116247f8------2)
 - [fastify typescript generator: a generator to bootstrap fastify server with typescript](https://alok722.medium.com/fastify-typescript-generator-a-generator-to-bootstrap-fastify-server-with-typescript-6a39bcea7a4?source=rss-e10e116247f8------2)
 - [Roadmap to become Web Developer in 2020](https://alok722.medium.com/roadmap-to-become-web-developer-in-2020-bd7ed7ed8ad5?source=rss-e10e116247f8------2)
-<!-- BLOG-POST-LIST:END -->
-
+ BLOG-POST-LIST:END -->
+<!--
 ## 🤝 Connect with me
 
 <p align="left">
@@ -77,9 +77,9 @@ method for challenging tasks, and learning new technologies and tools if the nee
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img alt="Fastify" src="https://img.shields.io/badge/fastify-%1212234E.svg?style=for-the-badge&logo=fastify&logoColor=white" />
-</p>
+</p>-->
 
-
+<!--
 ### 👉 Programming Language
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -114,8 +114,8 @@ method for challenging tasks, and learning new technologies and tools if the nee
 <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-</p>
-
+</p>-->
+<!--
 
 ### 👉 Others
 <p>
@@ -145,8 +145,8 @@ method for challenging tasks, and learning new technologies and tools if the nee
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok722&theme=algolia&hide_border=true" alt="alok722" />
-</p>
-  
+</p>-->
+  <!--
 ## ⭐ Starred Repository
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=namaste-javascript-notes&show_owner=true&theme=algolia)](https://github.com/alok722/namaste-javascript-notes)
@@ -164,3 +164,5 @@ method for challenging tasks, and learning new technologies and tools if the nee
 [instagram]: https://instagram.com/_rajalok_
 [linkedin]: https://linkedin.com/in/alok722
 [facebook]: https://fb.com/alok722
+
+-->
