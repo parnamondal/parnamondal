@@ -48,10 +48,10 @@ Hello! My name is Parna and I enjoy developing products that live on the interne
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parnamondal&show_icons=true&locale=en&theme=algolia" alt="parnamondal" /></p>
 
 <h3 align="center"><bold>Liked my work ? 😊</bold></h3>
-<p><a href="https://www.buymeacoffee.com/parna28"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="parna28" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/parna28"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="parna28" /></a></p><br><br>
 
 
-<p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="400px" width="400px"/></p>
+<p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="200px" width="300px"/></p>
 <!--
 
 <br />
