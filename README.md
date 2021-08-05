@@ -34,7 +34,7 @@ Hello! My name is Parna and I enjoy developing products that live on the interne
 <a href="https://linkedin.com/in/parnamondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parnamondal" height="30" width="40" /></a>
 <a href="https://fb.com/parna.mondal.28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parna.mondal.28" height="30" width="40" /></a>
 <a href="https://instagram.com/parna_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parna_28" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/parna mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="parna mondal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC9y2UZGcMuJGCYBgEb3baJg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="parna mondal" height="30" width="40" /></a>
 
 </p>
 
@@ -51,7 +51,7 @@ Hello! My name is Parna and I enjoy developing products that live on the interne
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parnamondal&show_icons=true&locale=en&theme=algolia" alt="parnamondal" /></p>
 
 <h3 align="left"><bold>Liked my work ? 😊</bold></h3>
-<p align="left"><a href="https://www.buymeacoffee.com/parna28"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="parna28" /></a><p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220px"/></p></p><br><br>
+<p align="left"><a href="https://www.buymeacoffee.com/parna28"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="parna28" /></a><p align="left"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220px"/></p></p><br><br>
 
 <!--
 <p align="right"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200px"/></p>
