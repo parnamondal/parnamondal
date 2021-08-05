@@ -50,8 +50,8 @@ Hello! My name is Parna and I enjoy developing products that live on the interne
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parnamondal&show_icons=true&locale=en&theme=algolia" alt="parnamondal" /></p>
 
-<h3 align="center"><bold>Liked my work ? 😊</bold></h3>
-<p align="left"><a href="https://www.buymeacoffee.com/parna28"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="parna28" /></a><p align="right"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200px"/></p></p><br><br>
+<h3 align="left"><bold>Liked my work ? 😊</bold></h3>
+<p align="left"><a href="https://www.buymeacoffee.com/parna28"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="parna28" /></a><p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220px"/></p></p><br><br>
 
 <!--
 <p align="right"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200px"/></p>
