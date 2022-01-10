@@ -1,4 +1,4 @@
-<img src="https://github-hero-readme.vercel.app/api?username=parnamondal&linkedin=parnamondal&twitter=parna281&description=Programmer%20Analyst%20Trainee%20@Cognizant%20|%20Python%20Nerdwidth=%27100%%27">
+<img src="https://github-hero-readme.vercel.app/api?username=parnamondal&linkedin=parnamondal&twitter=parna281&description=Web%20Application%20Developer%20@Media.net%20|%20JavaScript%20Nerdwidth=%27100%%27">
 
 <br>
 
