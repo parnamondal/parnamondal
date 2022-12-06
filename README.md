@@ -1,4 +1,4 @@
-<img src="https://github-hero-readme.vercel.app/api?username=parnamondal&linkedin=parnamondal&twitter=parna281&description=Web%20Application%20Developer%20@Media.net%20|%20JavaScript%20Nerdwidth=%27100%%27">
+<img src="https://github-hero-readme.vercel.app/api?username=parnamondal&linkedin=parnamondal&twitter=parna281&description=Associate%20Software%20Engineer%20@Turvo%20|%20JavaScript%20Nerdwidth=%27100%%27">
 
 <br>
 
@@ -10,10 +10,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parnamondal&label=Profile%20views&color=ff69b4&style=plastic" alt="parnamondal" /> </p>
 
-Hello! My name is Parna and I enjoy developing products that live on the internet and find its purpose among millions of massess. My interest is in software development and occassionally machine learning .I love working on things which interests me and help grow myself as a professional . My main focus these days is learning new tech-stacks and thereby implementing and building accessible, inclusive software products and digital experiences at Media.net for a variety of clients.
+Hello! My name is Parna and I enjoy developing products that live on the internet and find its purpose among millions of massess. My interest is in software development and occassionally machine learning .I love working on things which interests me and help grow myself as a professional . My main focus these days is learning new tech-stacks and thereby implementing and building accessible, inclusive software products and shipment experiences at Turvo for a variety of customers.
 ## I'm an Indian 🇮🇳, A Learner, Software Developer, and a singer!🙌
 
-- 🔥  I’m a Python enthusiast and currently all into Programming. 🧡
+- 🔥  I’m a Python and JAVA enthusiast and currently all into Programming. 🧡
 - 💬 Ask me about Python , Data Structures , Java Frameworks, career or technology advice.. 🙌
 - 👯 I’m looking to collaborate with other Python pair programmer .
 - ⚡ Fun fact: I think, I am in Love with Python.
